@@ -1,2 +1,2 @@
-# HOC
-Hour of Code
+Simple Weather Web App
+-----------------------
